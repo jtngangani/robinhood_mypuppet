@@ -1,0 +1,4 @@
+wheel==0.34.2
+python-dateutil==2.8.1
+requests==2.23.0
+ipdb==0.12.2
